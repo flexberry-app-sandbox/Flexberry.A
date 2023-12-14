@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "ЕдИзмер",
+      "projection": "ЕдИзмерL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Номенклатуры",
+  "name": "IISAНоменклатурыE",
+  "className": "НоменклатурыE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-a-номенклатуры",
+      "modelProjection": "НоменклатурыE"
+    }
+  ]
+}

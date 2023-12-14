@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Подразеления",
+  "name": "IISAПодразеленияE",
+  "className": "ПодразеленияE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-a-подразеления",
+      "modelProjection": "ПодразеленияE"
+    }
+  ]
+}

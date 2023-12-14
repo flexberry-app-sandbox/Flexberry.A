@@ -1,0 +1,54 @@
+﻿{
+  "name": "IISAЕдИзмер",
+  "modelName": "i-i-s-a-ед-измер",
+  "className": "ЕдИзмер",
+  "nameSpace": "IIS.A",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "едИзмер",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "ЕдИзмерE",
+      "modelName": "i-i-s-a-ед-измер",
+      "attrs": [
+        {
+          "name": "едИзмер",
+          "caption": "Ед измер",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "ЕдИзмерL",
+      "modelName": "i-i-s-a-ед-измер",
+      "attrs": [
+        {
+          "name": "едИзмер",
+          "caption": "Ед измер",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

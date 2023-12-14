@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-a-остат-на-склад-e",
+  "editForm": "i-i-s-a-остат-на-склад-e",
+  "external": false,
+  "caption": "Остат на склад",
+  "name": "IISAОстатНаСкладL",
+  "className": "ОстатНаСкладL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-a-остат-на-склад",
+      "modelProjection": "ОстатНаСкладL"
+    }
+  ]
+}

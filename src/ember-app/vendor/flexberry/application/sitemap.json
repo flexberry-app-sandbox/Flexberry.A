@@ -1,0 +1,102 @@
+﻿{
+  "applicationCaption": "A",
+  "applicationTitle": "A",
+  "items": [
+    {
+      "link": null,
+      "menuName": "a",
+      "caption": "A",
+      "title": "A",
+      "children": [
+        {
+          "link": null,
+          "menuName": "отчеты",
+          "caption": "Отчеты",
+          "title": "Отчеты",
+          "children": [
+            {
+              "link": "i-i-s-a-отчет-о-продажах-l",
+              "menuName": null,
+              "caption": "Отчет о продажах",
+              "title": "",
+              "children": null
+            },
+            {
+              "link": "i-i-s-a-остат-на-склад-l",
+              "menuName": null,
+              "caption": "Остат на склад",
+              "title": "",
+              "children": null
+            }
+          ]
+        },
+        {
+          "link": null,
+          "menuName": "справочники",
+          "caption": "Справочники",
+          "title": "Справочники",
+          "children": [
+            {
+              "link": "i-i-s-a-организации-l",
+              "menuName": null,
+              "caption": "Организации",
+              "title": "",
+              "children": null
+            },
+            {
+              "link": "i-i-s-a-склады-l",
+              "menuName": null,
+              "caption": "Склады",
+              "title": "",
+              "children": null
+            },
+            {
+              "link": "i-i-s-a-номенклатуры-l",
+              "menuName": null,
+              "caption": "Номенклатуры",
+              "title": "",
+              "children": null
+            },
+            {
+              "link": "i-i-s-a-ед-измер-l",
+              "menuName": null,
+              "caption": "Ед измер",
+              "title": "",
+              "children": null
+            },
+            {
+              "link": "i-i-s-a-подразеления-l",
+              "menuName": null,
+              "caption": "Подразеления",
+              "title": "",
+              "children": null
+            },
+            {
+              "link": "i-i-s-a-контрагенты-l",
+              "menuName": null,
+              "caption": "Контрагенты",
+              "title": "",
+              "children": null
+            }
+          ]
+        },
+        {
+          "link": null,
+          "menuName": "договора",
+          "caption": "Договора",
+          "title": "Договора",
+          "children": [
+            {
+              "link": "i-i-s-a-заказ-покуп-l",
+              "menuName": null,
+              "caption": "Заказ покуп",
+              "title": "",
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

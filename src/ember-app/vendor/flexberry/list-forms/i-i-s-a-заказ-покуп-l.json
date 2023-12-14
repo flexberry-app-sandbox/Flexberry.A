@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-a-заказ-покуп-e",
+  "editForm": "i-i-s-a-заказ-покуп-e",
+  "external": false,
+  "caption": "Заказ покуп",
+  "name": "IISAЗаказПокупL",
+  "className": "ЗаказПокупL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-a-заказ-покуп",
+      "modelProjection": "ЗаказПокупL"
+    }
+  ]
+}
