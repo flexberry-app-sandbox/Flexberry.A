@@ -32,13 +32,13 @@ export default Controller.extend({
               link: 'i-i-s-a-отчет-о-продажах-l',
               caption: i18n.t('forms.application.sitemap.a.отчеты.i-i-s-a-отчет-о-продажах-l.caption'),
               title: i18n.t('forms.application.sitemap.a.отчеты.i-i-s-a-отчет-о-продажах-l.title'),
-              icon: 'folder open',
+              icon: 'building',
               children: null
             }, {
               link: 'i-i-s-a-остат-на-склад-l',
               caption: i18n.t('forms.application.sitemap.a.отчеты.i-i-s-a-остат-на-склад-l.caption'),
               title: i18n.t('forms.application.sitemap.a.отчеты.i-i-s-a-остат-на-склад-l.title'),
-              icon: 'list',
+              icon: 'archive',
               children: null
             }]
           }, {
@@ -49,36 +49,37 @@ export default Controller.extend({
               link: 'i-i-s-a-организации-l',
               caption: i18n.t('forms.application.sitemap.a.справочники.i-i-s-a-организации-l.caption'),
               title: i18n.t('forms.application.sitemap.a.справочники.i-i-s-a-организации-l.title'),
-              icon: 'folder open',
+              icon: 'building',
               children: null
             }, {
               link: 'i-i-s-a-склады-l',
               caption: i18n.t('forms.application.sitemap.a.справочники.i-i-s-a-склады-l.caption'),
               title: i18n.t('forms.application.sitemap.a.справочники.i-i-s-a-склады-l.title'),
-              icon: 'tags',
+              icon: 'calendar',
               children: null
             }, {
               link: 'i-i-s-a-номенклатуры-l',
               caption: i18n.t('forms.application.sitemap.a.справочники.i-i-s-a-номенклатуры-l.caption'),
               title: i18n.t('forms.application.sitemap.a.справочники.i-i-s-a-номенклатуры-l.title'),
-              icon: 'folder open',
+              icon: 'chart line',
               children: null
             }, {
               link: 'i-i-s-a-ед-измер-l',
               caption: i18n.t('forms.application.sitemap.a.справочники.i-i-s-a-ед-измер-l.caption'),
               title: i18n.t('forms.application.sitemap.a.справочники.i-i-s-a-ед-измер-l.title'),
+              icon: 'chart line',
               children: null
             }, {
               link: 'i-i-s-a-подразеления-l',
               caption: i18n.t('forms.application.sitemap.a.справочники.i-i-s-a-подразеления-l.caption'),
               title: i18n.t('forms.application.sitemap.a.справочники.i-i-s-a-подразеления-l.title'),
-              icon: 'suitcase',
+              icon: 'edit',
               children: null
             }, {
               link: 'i-i-s-a-контрагенты-l',
               caption: i18n.t('forms.application.sitemap.a.справочники.i-i-s-a-контрагенты-l.caption'),
               title: i18n.t('forms.application.sitemap.a.справочники.i-i-s-a-контрагенты-l.title'),
-              icon: 'folder open',
+              icon: 'folder',
               children: null
             }]
           }, {
