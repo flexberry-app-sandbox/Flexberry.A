@@ -27,7 +27,7 @@ namespace IIS.A
 
     // *** End programmer edit section *** (ОстатНаСклад CustomAttributes)
     [AutoAltered()]
-    [Caption("Остат на склад")]
+    [Caption("Остатки на складах")]
     [AccessType(ICSSoft.STORMNET.AccessType.none)]
     [View("ОстатНаСкладE", new string[] {
             "Дата as \'Дата\'",

@@ -24,7 +24,7 @@
             {
               "link": "i-i-s-a-остат-на-склад-l",
               "menuName": null,
-              "caption": "Остат на склад",
+              "caption": "Остатки на складах",
               "title": "",
               "children": null
             }
@@ -89,7 +89,7 @@
             {
               "link": "i-i-s-a-заказ-покуп-l",
               "menuName": null,
-              "caption": "Заказ покуп",
+              "caption": "Заказ покупателя",
               "title": "",
               "children": null
             }

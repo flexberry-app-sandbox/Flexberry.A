@@ -27,7 +27,7 @@ namespace IIS.A
 
     // *** End programmer edit section *** (ЗаказПокуп CustomAttributes)
     [AutoAltered()]
-    [Caption("Заказ покуп")]
+    [Caption("Заказ покупателя")]
     [AccessType(ICSSoft.STORMNET.AccessType.none)]
     [View("ЗаказПокупE", new string[] {
             "ДатаНачала as \'Дата начала\'",
